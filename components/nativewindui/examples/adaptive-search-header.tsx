@@ -45,7 +45,7 @@ export default function AdaptiveHeaderScreen() {
               className="ios:bg-background/95"
               contentContainerClassName="flex-1"
               keyboardShouldPersistTaps="always">
-              <View className="items-center justify-center flex-1">
+              <View className="flex-1 items-center justify-center">
                 <Text>Search bar content</Text>
               </View>
             </KeyboardAwareScrollView>
